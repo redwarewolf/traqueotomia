@@ -300,3 +300,81 @@ _(Enfocadas en habilidades únicas de cada clase/raza)_
 
 > “Cinco estrellas se cruzarán con cinco sombras. El destino decidirá si las sombras serán amigos o ceniza.”
 
+
+
+
+### 🏹 **Aywin (ranger, medio elfa, piel azul): será clave para los goblins de Gobhogar**
+
+**Temática:** guía espiritual, unión con la comunidad goblin, futuro entrelazado
+
+1. _“Verás el alma del bosque reflejada en ojos verdes y pequeños. Tu arco no los cazará, los cuidará.”_
+    
+2. _“Un pueblo de paz cruzará tu camino, y tus pasos serán su estrella en la oscuridad.”_
+    
+3. _“La arquera azul hallará su senda donde otros ven maleza: entre goblins y canciones humildes.”_
+    
+4. _“Guías sin querer, liderás sin trono. Un día, serás leyenda entre aquellos que bailan con hongos.”_
+    
+5. _“Te seguirán quienes otros desprecian. No con miedo, sino con esperanza.”_
+    
+
+---
+
+### 🗡️ **Nuevo personaje (rogue, mercenario): manipulado sin saberlo**
+
+- _“No todo contrato nace de justicia. A veces el oro compra mentiras.”_
+    
+- _“Tus dagas son veloces… pero aún más rápido debería ser tu juicio.”_
+    
+- _“Antes de alzar la mano, mirá a quien apunta tu sombra.”_
+    
+- _“El verdadero enemigo no siempre lleva arma. A veces solo susurra.”_
+    
+- _“Lo que parece amenaza… puede ser un refugio disfrazado.”_
+    
+- _“Te enviaron a cazar, pero no todo lo que se mueve merece una jaula.”_
+    
+- _“Preguntá por qué. Si no podés responder, no desenfundes.”_
+    
+- _“Algunos encargos pesan más después de cumplidos.”_
+    
+- _“Los ojos que te observan desde la penumbra… ¿te guían o te usan?”_
+    
+- _“Tu daga juzga con filo. Esta vez, tal vez debas mirar con el alma.”_
+    
+
+---
+
+### ⚔️ **Antron (paladín, cicatriz negra como raíces): compasión, seguir la luz**
+
+**Temática:** lucha interior, deber, redención, escuchar a su fe
+
+1. _“La raíz negra puede crecer… o ser arrancada. Escuchá a la luz antes que sea tarde.”_
+    
+2. _“Tu fe será probada no con fuego, sino con piedad.”_
+    
+3. _“Algunos a quienes jurás destruir… necesitarán tu perdón.”_
+    
+4. _“No todo mal merece tu espada. Algunas sombras temen más a la compasión.”_
+    
+5. _“La cicatriz es señal, no sentencia. Tené compasión, hasta de vos mismo.”_
+    
+
+---
+
+### 🪓 **Varzakh (bárbara half-orc): lucha contra no-muertos, futuro como herrera**
+
+**Temática:** propósito, forja, evolución, enemigos inanimados
+
+1. _“Tu hacha danzará contra carne sin alma. Golpeá a lo que camina sin latir.”_
+    
+2. _“Matarás lo que ya murió. Escuchá los huesos cuando clamen por descanso.”_
+    
+3. _“No todo combate grita. Algunos crujen en silencio.”_
+    
+4. _“Tus manos forjarán más que heridas. Un fuego viejo te enseñará arte nuevo.”_
+    
+5. _“El hierro en tu sangre llamará al yunque. Pero no todos los maestros usan martillos.”_
+    
+6. _“Un día harás armas, no solo blandirlas. Y la chispa nacerá en el lugar menos pensado.”_
+
