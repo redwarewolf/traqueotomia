@@ -1,0 +1,4 @@
+
+![[MinerDifficultiesIMG.png]]
+
+Ideas.
