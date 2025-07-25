@@ -111,5 +111,3 @@ Una vez limpiada la mina:
     
 
 ---
-
-¿Listo para el próximo paso? Podemos generar un mapa de la mina, arte visual o expandir la escena diplomática en Corina.

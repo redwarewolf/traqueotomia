@@ -263,16 +263,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manejando un Negocio.md",
+                "file": "Campaña DnD - (Nombre Grupo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manejando un Negocio"
+              "title": "Campaña DnD - (Nombre Grupo)"
+            }
+          },
+          {
+            "id": "c9512dab02aacef2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Campaña DnD - (Nombre Grupo).md",
+                "bFile": "Campaña DnD - (Nombre Grupo).md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Campaña DnD - (Nombre Grupo)"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -430,36 +444,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45812cf83d4e1b09",
+  "active": "c9512dab02aacef2",
   "lastOpenFiles": [
-    "Campañas/Raices bajo tierra.md",
-    "Campañas/La Corrupción en el Agua.md",
-    "Manejando un Negocio.md",
     "Campaña DnD - (Nombre Grupo).md",
     "Lugares/Corina.md",
-    "Recompensas.md",
-    "Campañas.md",
-    "Campañas/Muerte en Corina.md",
     "Lugares/Gobhogar.md",
+    "Jugadores/Jugadores.md",
+    "Jugadores/- Cleissy.md",
+    "Jugadores/- Antron Ironveil.md",
+    "Jugadores/- Aywin.md",
+    "Random Encounters.md",
+    "Campañas/Dificultades Mineras.md",
+    "Campañas/Muerte en Corina.md",
+    "Recompensas.md",
     "README.md",
+    "Campañas/Raices bajo tierra.md",
+    "Manejando un Negocio.md",
+    "Imágenes/map-12.09-mine.jpg",
+    "Campañas/La Corrupción en el Agua.md",
+    "Campañas.md",
     "Pasted image 20250616000446.png",
     "Pasted image 20250616000228.png",
     "Pasted image 20250615235909.png",
     "Pasted image 20250616000008.png",
     "Pasted image 20250615235955.png",
-    "Jugadores/- Aywin.md",
     "Imágenes/MinerDifficultiesIMG.png",
     "Imágenes/FouledStreamIMG.png",
     "Imágenes",
-    "Campañas/Dificultades Mineras.md",
-    "Jugadores/Jugadores.md",
     "Jugadores/- Lilith.md",
     "Lugares",
     "Campañas",
     "Jugadores/- Varzakh.md",
-    "Jugadores/- Cleissy.md",
     "Jugadores/- Caelum.md",
-    "Jugadores/- Antron Ironveil.md",
     "Jugadores",
     "Campamento de Goblins vegetarianos.md",
     "create a link.md"
