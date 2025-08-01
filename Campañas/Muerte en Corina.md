@@ -3,7 +3,7 @@ En el pueblo de [[Corina]] están sucediendo cosas extrañas y se percibe magia 
 
 - 1- Sombras entre los pinos
 	- Ataque de bandidos al aserradero
-- 2- Las alimañas debajo 
+- 2- [[Las alimañas debajo ]]
 	- Ratas y criaturas no-muertas atacan al pueblo producto de Alric Vaelor
 	- Leñadores y bandidos de la primera sesión como encuentro final
 - 3- La gracia hueca 
