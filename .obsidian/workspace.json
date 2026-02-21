@@ -340,9 +340,117 @@
               "icon": "lucide-file",
               "title": "Part 1 - Goblin Arrows"
             }
+          },
+          {
+            "id": "b448be28f7f0e6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaña DnD - (Nombre Grupo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaña DnD - (Nombre Grupo)"
+            }
+          },
+          {
+            "id": "89db0c21cc7c11fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jugadores/Jugadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jugadores"
+            }
+          },
+          {
+            "id": "8a616e366d52fea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaña DnD - (Nombre Grupo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaña DnD - (Nombre Grupo)"
+            }
+          },
+          {
+            "id": "24476ce407e0b706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaña DnD - (Nombre Grupo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaña DnD - (Nombre Grupo)"
+            }
+          },
+          {
+            "id": "551ffbdef8801df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campañas/Minas Perdidas de Phandelver/Part 2 - Phandalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 2 - Phandalin"
+            }
+          },
+          {
+            "id": "59a4b1be9d70232e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imágenes/map-1.1-Cragmaw-Hideout.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "map-1.1-Cragmaw-Hideout"
+            }
+          },
+          {
+            "id": "ce53c56845a57090",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imágenes/map-2.1-Phandalin.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "map-2.1-Phandalin"
+            }
+          },
+          {
+            "id": "619ac98d3354736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campañas/Minas Perdidas de Phandelver/Personajes/Sildar HallWinter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sildar HallWinter"
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -501,43 +609,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32593c2aac0e470e",
+  "active": "619ac98d3354736c",
   "lastOpenFiles": [
-    "map-1.1-Cragmaw-Hideout.jpg",
-    "Campañas/Minas Perdidas de Phandelver/Informacion.md",
+    "Campañas/Minas Perdidas de Phandelver/Part 2 - Phandalin.md",
+    "Campañas/Minas Perdidas de Phandelver/Personajes/Sildar HallWinter.md",
+    "Imágenes/map-1.1-Cragmaw-Hideout.jpg",
+    "Imágenes/map-2.1-Phandalin.jpg",
+    "Campañas/Minas Perdidas de Phandelver/Minas Perdidas de Phandelver.md",
+    "Campañas/Minas Perdidas de Phandelver/Personajes",
+    "Campaña DnD - (Nombre Grupo).md",
+    "Campañas.md",
+    "Jugadores/- Antron Ironveil.md",
+    "Jugadores/- Aywin.md",
+    "Jugadores/- Cleissy.md",
+    "Jugadores/- Varzakh.md",
+    "Jugadores/- Lilith.md",
+    "Jugadores/Jugadores.md",
     "Campañas/Minas Perdidas de Phandelver/Part 1 - Goblin Arrows.md",
+    "Imágenes/corina.png",
+    "Imágenes/FouledStreamIMG.png",
+    "Imágenes/Ilmater.png",
+    "Imágenes/map-12.09-mine.jpg",
+    "Imágenes/MinerDifficultiesIMG.png",
     "Campañas/Muerte en Corina/Raices bajo tierra.md",
     "Campañas/Muerte en Corina",
     "Campañas/Minas Perdidas de Phandelver",
-    "Jugadores/- Varzakh.md",
-    "Jugadores/- Lilith.md",
-    "Jugadores/- Cleissy.md",
     "Jugadores/- Caelum.md",
-    "Jugadores/- Aywin.md",
-    "Jugadores/- Antron Ironveil.md",
     "Lugares/Corina.md",
-    "Campaña DnD - (Nombre Grupo).md",
     "Recompensas.md",
     "Campañas/Muerte en Corina/Las alimañas debajo.md",
     "Campañas/Muerte en Corina/Muerte en Corina.md",
     "Campañas/Muerte en Corina/La Corrupción en el Agua.md",
     "Campañas/Muerte en Corina/Dificultades Mineras.md",
-    "Imágenes/MinerDifficultiesIMG.png",
-    "Imágenes/map-12.09-mine.jpg",
-    "Imágenes/Ilmater.png",
-    "Imágenes/FouledStreamIMG.png",
-    "Imágenes/corina.png",
     "Random Encounters.md",
     "README.md",
     "Lugares/Gobhogar.md",
-    "Jugadores/Jugadores.md",
     "Manejando un Negocio.md",
-    "Campañas.md",
     "Pasted image 20250616000446.png",
     "Pasted image 20250616000228.png",
     "Pasted image 20250615235909.png",
-    "Pasted image 20250616000008.png",
-    "Pasted image 20250615235955.png",
     "Imágenes",
     "Lugares",
     "Campañas",

@@ -12,7 +12,7 @@ Before continuing with the adventure, take a few minutes to do the following:
 - Ask the players to think about how their characters came to know their dwarf patron, Gundren Rockseeker. Let the players concoct their own stories. If a player is hard-pressed to think of anything, suggest something simple. For example, Gundren could be a childhood friend or someone who helped the player’s character get out of a tough scrape. This exercise is a great opportunity for the players to contribute to the adventure’s backstory.
 - Ask the players to give you the party’s marching order and how their characters are traveling. Who’s in front, and who’s bringing up the rear? If the characters are escorting Gundren’s wagonload of supplies, then one or two characters need to be driving the wagon. The rest of the characters can be riding on the wagon, walking alongside, or scouting ahead, as they like.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/goblin-arrows#DrivingtheWagon)Driving the Wagon
+#### [Driving the Wagon](https://www.dndbeyond.com/sources/dnd/lmop/goblin-arrows#DrivingtheWagon)
 
 Any character can drive a wagon, and no particular skill is necessary. Two oxen pull the wagon. If no one is holding the reins, the oxen stop where they are.
 
@@ -122,8 +122,7 @@ Following the goblins’ trail, you come across a large cave in a hillside five 
 
 The thicket in area 2 is impenetrable from the west side of the stream.
 
-#### [Developments
-](https://www.dndbeyond.com/sources/dnd/lmop/goblin-arrows#CaveMouthDevelopments)
+#### [Developments](https://www.dndbeyond.com/sources/dnd/lmop/goblin-arrows#CaveMouthDevelopments)
 The goblins in area 2 are supposed to be keeping watch on this area, but they are not paying attention. (Goblins can be lazy that way.) However, if the characters make a lot of noise here—for example, loudly arguing about what to do next, setting up a camp, cutting down brush, and so on—the goblins in area 2 notice and attack them through the thicket, which provides the goblins with [half cover](https://www.dndbeyond.com/sources/basic-rules/combat#Cover) (see the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) for [rules on cover](https://www.dndbeyond.com/sources/basic-rules/combat#Cover)).
 
 ### [2. Goblin Blind](https://www.dndbeyond.com/sources/dnd/lmop/goblin-arrows#2GoblinBlind)
