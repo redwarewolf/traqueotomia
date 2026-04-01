@@ -78,7 +78,7 @@ Phandalin is small, so the characters can visit multiple locations and NPCs thro
 The following sections detail specific locations in town.
 
 ### [Stonehill Inn](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#StonehillInn)
-
+![[Stonehill-Inn-scaled.jpg]]
 In the center of town stands a large, newly built roadhouse of fieldstone and rough-hewn timbers. The common room is filled with locals nursing mugs of ale or cider, all of them eyeing you with curiosity.
 
 This modest inn has six rooms for rent (Sildar Hallwinter takes one). If the characters decide to stay here, see “[Food, Drink, and Lodging](https://www.dndbeyond.com/sources/basic-rules/equipment#FoodDrinkandLodging)” in the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) for pricing. (The characters’ other alternative for lodging is to camp outside the town, or to persuade a farmer such as Daran Edermath or Qelline Alderleaf to let them sleep in a hayloft.)
@@ -101,7 +101,7 @@ These leads should point the characters toward opportunities for adventure in an
 Phandalin[View Player Version](https://media.dndbeyond.com/compendium-images/lmop/M14LHJMMQhUuZ46S/map-2.1-Phandalin-player.jpg)
 
 ### [Barthen’s Provisions](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#BarthensProvisions)
-
+![[BarthensProvisions-1-scaled.jpg]]
 Barthen’s is the biggest trading post in Phandalin. Its shelves stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. The place is open from sunup to sundown. Barthen’s does not stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see “[Adventuring Gear](https://www.dndbeyond.com/sources/basic-rules/equipment#AdventuringGear)” in the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules).) Characters in need of weapons or armor are directed to the [Lionshield Coster](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#LionshieldCoster) (see that section).
 
 The proprietor is Elmar Barthen, a lean and balding human male shopkeeper of fifty years with a kindly manner. He employs a couple of young clerks (Ander and Thistle), who help load and unload wagons and who wait on customers when Barthen isn’t around.
@@ -127,7 +127,7 @@ _**Quest: Old Owl Trouble.**_ Daran has heard stories from prospectors in the h
 If the party deals with the Redbrands and investigates Old Owl Well, Daran Edermath privately approaches certain members of the group to urge them to join the Order of the Gauntlet. He speaks with those who exemplify the virtues of the order, such as honor and vigilance. If a character agrees, Daran awards the person the title of Chevall.
 
 ### [Lionshield Coster](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#LionshieldCoster)
-
+![[LionshieldCoster-1-scaled.jpg]]
 Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.
 
 This building is owned by the Lionshields, a merchant company based in the city of Yartar, over a hundred miles to the east. They ship finished goods to Phandalin and other small settlements throughout the region, but this outpost has been hard hit by banditry. The most recent Lionshield caravan due in Phandalin never arrived. (It was attacked and its cargo captured by the Cragmaw goblins.)
@@ -139,7 +139,7 @@ In a back room, Linene keeps a supply of armor and weapons, all of which are for
 _**Recovered Goods.**_ If the characters return the stolen goods found in [area 8](https://www.dndbeyond.com/sources/lmop/goblin-arrows#8KlargsCave) of [the Cragmaw hideout](https://www.dndbeyond.com/sources/lmop/goblin-arrows#CragmawHideout) (or if they left the goods but reveal where they can be found), Linene gives them a reward of 50 gp and promises to help the adventurers any way she can.
 
 ### [Phandalin Miner’s Exchange](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#PhandalinMinersExchange)
-
+![[Phandalin-Miners-Exchange-scaled.jpg]]
 The Miner’s Exchange is a trading post where local miners have their valuable finds weighed, measured, and paid out. In the absence of any local lord or authority, the exchange also serves as an unofficial records office, registering claims to various streams and excavations around the area. There isn’t any real gold rush in Phandalin, but enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
 
 The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is an ambitious and calculating human woman named Halia Thornton. In her attempts to establish the Miner’s Exchange as the closest thing the town has to a governing authority, she acts as more than a simple merchant. She is also an agent of the Zhentarim, a powerful organization that seeks to exert secret control over the North through wealth and influence. Halia is working slowly to bring Phandalin under her control, and can become a valuable patron to the characters if they don’t cross her.
@@ -161,7 +161,7 @@ _**Carp’s Story.**_ Qelline’s son, Carp, is a spirited and precocious halfl
 _**Quest: Reidoth the Druid.**_ Qelline is a longtime friend of a druid named Reidoth. If she figures out that the characters are looking for specific sites in the area, such as Cragmaw Castle or Wave Echo Cave, she suggests that they visit Reidoth and ask for his help, “since there’s not an inch of the land he doesn’t know.” She tells the characters that Reidoth recently set out for the ruins of a town called Thundertree, just west of the Neverwinter Wood. The ruins are about fifty miles northwest of Phandalin, and she provides directions so the characters can easily find the place. If the party pursues this quest, see “[Ruins of Thundertree](https://www.dndbeyond.com/sources/lmop/the-spiders-web#RuinsofThundertree)” in Part 3.
 
 ### [Shrine of Luck](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#ShrineofLuck)
-
+![[ShrineOfLuck.jpeg]]
 Phandalin’s only temple is a small shrine made of stones taken from the nearby ruins. It is dedicated to Tymora, goddess of luck and good fortune.
 
 The shrine is in the care of a scholarly acolyte named Sister Garaele, a zealous young elf who despairs of ever ridding Phandalin of the Redbrands. Sister Garaele is a member of the Harpers, a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. The Harpers gather information throughout the land to thwart tyrants and any leader, government, or group that grows too strong. They aid the weak, the poor, and the oppressed. Sister Garaele regularly reports to her superiors on events in and around Phandalin.
@@ -528,6 +528,9 @@ Because Iarno and his rat familiar share a telepathic bond, the mage (in area 12
 Most of the materials in this room have no value, but three small bottles hold rare reagents: mercury, dragon bile, and powdered nightshade. These are worth 25 gp each to an apothecary or alchemist.
 
 ### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#12GlasstaffsQuarters)12. Glasstaff’s Quarters
+![[Iarno.jpeg]]
+
+![[Pasted image 20260401151619.png]]
 
 If the characters approach this room through the secret passage from [area 7](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#7StoreroomandWorkArea), they can surprise the leader of the Redbrands—Iarno “Glasstaff” Albrek. Otherwise, his rat familiar warns him of any who approach through area 11, and he flees before the characters arrive.
 

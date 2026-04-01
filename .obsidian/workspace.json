@@ -441,12 +441,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Minas Perdidas de Phandelver/Personajes/Sildar HallWinter.md",
+                "file": "Campañas/Minas Perdidas de Phandelver/Part 2 - Phandalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sildar HallWinter"
+              "title": "Part 2 - Phandalin"
             }
           }
         ],
@@ -611,10 +611,19 @@
   },
   "active": "619ac98d3354736c",
   "lastOpenFiles": [
+    "Imágenes/Phandalin/ShrineOfLuck.jpeg",
     "Campañas/Minas Perdidas de Phandelver/Part 2 - Phandalin.md",
+    "Pasted image 20260401151619.png",
+    "Imágenes/Phandalin/Iarno.jpeg",
+    "Phandalin-Miners-Exchange-scaled.jpg",
+    "LionshieldCoster-1-scaled.jpg",
+    "BarthensProvisions-1-scaled.jpg",
+    "Stonehill-Inn-scaled.jpg",
     "Campañas/Minas Perdidas de Phandelver/Personajes/Sildar HallWinter.md",
-    "Imágenes/map-1.1-Cragmaw-Hideout.jpg",
-    "Imágenes/map-2.1-Phandalin.jpg",
+    "Imágenes/Phandalin/Phandalin-Miners-Exchange-scaled.jpg",
+    "Imágenes/Phandalin/Stonehill-Inn-scaled.jpg",
+    "Imágenes/Phandalin/BarthensProvisions-1-scaled.jpg",
+    "Imágenes/Phandalin",
     "Campañas/Minas Perdidas de Phandelver/Minas Perdidas de Phandelver.md",
     "Campañas/Minas Perdidas de Phandelver/Personajes",
     "Campaña DnD - (Nombre Grupo).md",
@@ -626,11 +635,6 @@
     "Jugadores/- Lilith.md",
     "Jugadores/Jugadores.md",
     "Campañas/Minas Perdidas de Phandelver/Part 1 - Goblin Arrows.md",
-    "Imágenes/corina.png",
-    "Imágenes/FouledStreamIMG.png",
-    "Imágenes/Ilmater.png",
-    "Imágenes/map-12.09-mine.jpg",
-    "Imágenes/MinerDifficultiesIMG.png",
     "Campañas/Muerte en Corina/Raices bajo tierra.md",
     "Campañas/Muerte en Corina",
     "Campañas/Minas Perdidas de Phandelver",
@@ -645,14 +649,10 @@
     "README.md",
     "Lugares/Gobhogar.md",
     "Manejando un Negocio.md",
-    "Pasted image 20250616000446.png",
-    "Pasted image 20250616000228.png",
-    "Pasted image 20250615235909.png",
     "Imágenes",
     "Lugares",
     "Campañas",
     "Jugadores",
-    "Campamento de Goblins vegetarianos.md",
-    "create a link.md"
+    "Campamento de Goblins vegetarianos.md"
   ]
 }
