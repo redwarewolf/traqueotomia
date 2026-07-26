@@ -279,7 +279,7 @@ If the characters charm or successfully question any of the Redbrands, they can 
 - The lower part of the complex is guarded by a hideous “eye monster” (see [area 8](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#8Crevasse)).
 - The Redbrands have a handful of captives in a holding area “near the old crypts,” which are guarded by skeletons (see [areas 4](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#4TresendarCrypts) andarea [5](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#5SlavePens)).
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#1Cellar)1. Cellar
+### [1. Cellar](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#1Cellar)
 
 Any exploration of the manor grounds finds it deserted, but with plenty of tracks leading to a stone staircase just off the empty ruin of a large kitchen. At the bottom of the stairs stands an unlocked door with a cellar beyond.
 
@@ -297,15 +297,15 @@ A waterproof satchel hangs from a submerged rope attached along the south wall o
 
 _**Secret Door.**_ A secret door is located in the southwest corner of the room. See the “[General Features](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#GeneralFeatures)” section for more information on secret doors.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#CellarDevelopments)Developments
+#### [Developments](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#CellarDevelopments)
 
 No monsters or villains are found in this area, but the ruffians in area 2 take notice if the characters make a lot of noise here. They creep into the room, gaining [surprise](https://www.dndbeyond.com/sources/basic-rules/combat#Surprise) if the characters don’t hear them (see “[Surprise](https://www.dndbeyond.com/sources/basic-rules/combat#Surprise)” in the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules)). If the ruffians fight in this area and two are defeated, the last ruffian might reveal the secret door by fleeing in that direction.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#CellarTreasure)Treasure
+#### [Treasure](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#CellarTreasure)
 
 The satchel hidden in the cistern is waterproof and contains a _[potion of healing](https://www.dndbeyond.com/equipment/71-potion-of-healing)_, a [potion of invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility), 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Iarno keeps here in case of an emergency.
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#2Barracks)2. Barracks
+### [2. Barracks](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#2Barracks)
 
 Most of the Redbrands’ human members have lodgings in Phandalin. This barracks is a good place to lie low after shaking down local miners and fur traders.
 
@@ -315,15 +315,15 @@ Three [Redbrand ruffians](https://www.dndbeyond.com/monsters/22030-redbrand-ruf
 
 The barrels here contain similar provisions to those in area 1.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#BarracksTreasure)Treasure
-
+#### [Treasure
+](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#BarracksTreasure)
 All three Redbrands wear belt pouches holding treasure. The first holds 16 sp and 7 gp; the second, 12 sp and 5 gp; and the third, 15 ep and two garnets (10 gp each). Additionally, three dirty scarlet cloaks hang from the bunks.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#BarracksAwardingExperiencePoints)Awarding Experience Points
+#### [Awarding Experience Points](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#BarracksAwardingExperiencePoints)
 
 Divide 300 XP equally among the characters if the party defeats the ruffians.
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#3TrappedHall)3. Trapped Hall
+### [3. Trapped Hall](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#3TrappedHall)
 
 This area was part of Tresendar Manor’s original cellars. The Redbrands dug out the dirt beneath the stone floor, creating a hidden pit trap.
 
@@ -333,11 +333,11 @@ The pit trap in the middle of the hallway is hidden under a false floor consisti
 
 A creature that triggers the trap or fails the Dexterity check to skirt around the edge of the pit must attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking 2d6 bludgeoning damage and landing [prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition).
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TrappedHallAwardingExperiencePoints)Awarding Experience Points
+#### [Awarding Experience Points](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TrappedHallAwardingExperiencePoints)
 
 Divide 100 XP equally among the characters if the party avoids or survives the pit trap.
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#4TresendarCrypts)4. Tresendar Crypts
+### [4. Tresendar Crypts](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#4TresendarCrypts)
 
 The elders of the long-gone Tresendar family were once laid to rest in this mausoleum.
 
@@ -347,19 +347,19 @@ The three [skeletons](https://www.dndbeyond.com/monsters/17015-skeleton) are a
 
 The stone lid of each sarcophagus is carved to depict the person entombed within—two human males and one human female, all of noble bearing. If opened, the tombs contain mostly moldering bones and scraps of clothing, but see the “Treasure” section.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsDevelopments)Developments
+#### [Developments](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsDevelopments)
 
 Fighting in this room alerts the Redbrands in area 5 that trouble is on the way.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsTreasure)Treasure
+#### [Treasure](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsTreasure)
 
 Amid the bones in each sarcophagus is a platinum signet ring (50 gp).
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsExperiencePoints)Awarding Experience Points
+#### [Awarding Experience Points](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#TresendarCryptsExperiencePoints)
 
 Divide 150 XP equally among the characters if the party defeats the skeletons.
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#5SlavePens)5. Slave Pens
+### [5. Slave Pens](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#5SlavePens)
 
 For the past two months, the Redbrands have been capturing travelers in the area and holding them in these pens until they can be sold into slavery.
 
@@ -373,7 +373,7 @@ The heap of clothing belongs to the various captives who have been housed here o
 
 _**Cell Doors.**_ The cell doors feature simple locks requiring thieves’ tools and a successful DC 10 Dexterity check to pick. The doors can also be wrenched open by brute force with a successful DC 22 Strength check.
 
-#### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#Captives)Captives
+#### [Captives](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#Captives)
 
 The three human [commoners](https://www.dndbeyond.com/monsters/16829-commoner) imprisoned here are Mirna Dendrar and her two teenage children, thirteen-year-old Nars and eighteen-year-old Nilsa. A few days ago, the Redbrands murdered Mirna’s husband, Thel, for defying them. (His corpse can be found in [area 8.](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#8Crevasse)) That night, the gang returned and abducted the family from their home in Phandalin. The gang plans to sell the family into slavery.
 
@@ -445,7 +445,19 @@ Sir Aldith died fighting off the orcs that attacked through the hidden caverns b
 
 Divide 450 XP equally among the characters if the party defeats the nothic or negotiates a truce with it.
 
-### [](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#9GuardBarracks)9. Guard Barracks
+### Resumen hasta acá para continuar
+
+_"La aventura comenzó cuando aceptaron escoltar una carreta hasta Phandalin para Gundren Rockseeker. En el camino descubrieron que él y Sildar Hallwinter habían sido emboscados por goblins. Tras seguir el rastro hasta la Cueva Cragmaw, rescataron a Sildar, quien les reveló que Gundren seguía cautivo y que un misterioso personaje conocido como la Araña Negra estaba buscando la legendaria Mina Perdida de Phandelver."_
+
+_"Al llegar a Phandalin descubrieron que el pueblo vive bajo el control de los Redbrand, una banda de criminales que extorsiona y aterroriza a los habitantes. Investigando, averiguaron que operan desde las ruinas de Tresendar Manor y que están dirigidos por un mago conocido como Glasstaff."_
+
+_"Decidieron infiltrarse en su guarida. Desde entonces han ido despejando sus pasillos y habitaciones, derrotando a varios Redbrand y sobreviviendo a las amenazas ocultas en el complejo. En el camino encontraron una celda donde mantenían cautivos a Mirna Dendrar y a sus hijos, Nars y Nilsa. Lograron liberarlos y descubrieron que los Redbrand habían asesinado al padre de la familia. Antes de marcharse, Mirna les habló de un antiguo collar de esmeraldas escondido en las ruinas de Thundertree, una posible recompensa si algún día deciden aventurarse hasta allí."_
+
+_"Ahora solo queda una pieza importante por encontrar: Glasstaff. Saben que sigue en algún lugar de estas catacumbas y que cuenta con guardaespaldas bugbears a su servicio. No saben si es consciente de que están aquí... pero cada minuto que pasa aumenta la posibilidad de que prepare su siguiente movimiento."_
+
+_"Y allí retomamos la historia..."_
+
+### [9. Guard Barracks](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#9GuardBarracks)
 
 A character who listens at this door with a successful DC 10 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check hears several gruff voices issuing demeaning commands in the Goblin tongue. Examples include “Lick the floor!” and “Roll like a dog!” The bugbears here are bullying their goblin slave.
 
